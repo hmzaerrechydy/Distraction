@@ -15,13 +15,13 @@ export default {
     submit() {
       //this.$emit('submit', this.email)
       //use axios to submit form data to node 
-
+      
       axios.post('http://localhost:3000/add', {
         title: this.title,
         body: this.body, 
         tag: this.tag
       }).then(response => {
-		console.log(response.data);
+		console.log(response);
 	})
 
 
