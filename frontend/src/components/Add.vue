@@ -20,9 +20,9 @@ export default {
         title: this.title,
         body: this.body, 
         tag: this.tag
-      }).then(response => {
-		console.log(response);
-	})
+      })
+
+      this.$router.push('/'); 
 
 
     }

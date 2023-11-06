@@ -1,3 +1,1 @@
-{
-    "fruit": "orange" 
-}
+{"items":[{"title":"blog post idea","body":"write a blog post about how to learn to code.","tag":"blog"},{"title":"book idea","body":"write a book about AI.","tag":"writing"},{"title":"Book recommendation ","body":"The Power of Habit","tag":"Reading"},{"title":"Shopping list ","body":"Coffee, milk and bread.","tag":"Shopping"},{"title":"To do ","body":"Write script for YouTube video.","tag":"YouTube"}]}
